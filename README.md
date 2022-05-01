@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Mahfuzur Rahman</h1>
+<h1 align="center">Hi 👋, I'm **Md Mahfuzur Rahman**</h1>
 <h3 align="center">A student who have passion on competitive programming and cybersecurity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz33r&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz33r" /> </p>
