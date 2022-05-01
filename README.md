@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Md Mahfuzur Rahman</h1>
-<h3 align="center">A student who have passion on competitive programming and cybersecurity.</h3>
+### Hi there 👋, I'm **Mahfuz**
+#### Want to be a Competitive Programmer and Cybersecurity Specialist. 
+![Want to be a Competitive Programmer and Cybersecurity Specialist. ](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/277585987_1767635586760778_1117287476518539818_n.jpg?stp=dst-jpg_p526x296&_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeH0lx8xcd_BDn7fMX5M3imyNYo_bK9wWnI1ij9sr3Bacg_Tk6D_mzjetBe6bbkTryrpDQMH8YjXNterawbHkHfI&_nc_ohc=cdItjaTxVkQAX9g-d1t&tn=s1DGhyEK6rdnc9DI&_nc_ht=scontent.fdac138-1.fna&oh=00_AT9ZPdUUWajYN6mE32VTY5-ms_ypJBt3EbySQYxCBq7v2Q&oe=6273CAEF)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz33r&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz33r" /> </p>
+Currently studying B.Sc in Software Engineering (Major in Cybersecurity).  
 
-- 🌱 I’m currently learning **Cybersecurity**
+Skills: Python / Cybersecurity
 
-- 📫 How to reach me **mahfuz33r@gmail.com**
+- 🌱 I’m currently learning Cybersecurity, OpenCV 
+- 📫 How to reach me: mahfuz33r@gmail.com 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahfuz33r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahfuz33r" height="30" width="40" /></a>
-<a href="https://fb.com/mahfuz33r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahfuz33r" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/his3nb3rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="his3nb3rg" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahfuz33R)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahfuz33r/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahfuz33r)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](his3nb3rg)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz33r&" alt="mahfuz33r" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz33R)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuz33R&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahfuz33R)  
+
+![Profile views](https://gpvc.arturio.dev/mahfuz33R)  
