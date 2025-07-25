@@ -94,7 +94,7 @@ Hello, I’m Md Mahfuzur Rahman, a dedicated Cybersecurity Researcher and Securi
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahfu33R/mahfuz33R/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mahfuz33R/mahfuz33R/output/snake.svg" alt="Snake animation" />
   <br clear="both">
   <br>
   <br>
