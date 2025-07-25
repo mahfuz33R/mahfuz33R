@@ -87,6 +87,12 @@ Hello, I’m Md Mahfuzur Rahman, a dedicated Cybersecurity Researcher and Securi
   <a href="https://x.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+  <a href="https://mahfuz33r.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=24292E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
+  <a href="mailto:mahfuz33r@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
+  </a>
 </div>
 
 ###
