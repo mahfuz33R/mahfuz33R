@@ -1,4 +1,4 @@
-![logo](https://github.com/mahfuz33R/mahfuz33r/assets/github_cover.png)
+![logo](https://github.com/mahfuz33R/mahfuz33R/blob/main/assets/github_cover.png)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mahfuz33r&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz33r" /> </p>
 <p align="center">
